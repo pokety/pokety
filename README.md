@@ -1,5 +1,5 @@
 
-# 👦Claudio Amilton
+# 🤓 Claudio Amilton
 Buscando oportunidade de Desenvolvedor de Software gosto de transformar ideias em soluções digitais inovadoras . \
 Estou no 6° período de Sistema de Informação. Sou comprometido com a
 aprendizagem contínua e estou sempre atualizado nas últimas tendências tecnológicas. \
@@ -32,15 +32,16 @@ Telefone: (61) 98366-0284 \
 • Ensino Superior – Cursando Sistema da Informação – 2022-2025 – Estácio-DF
 
 ## 📊 Skills
-* JAVASCRIPT 
+* JAVASCRIPT / HTML/ CSS
+* TAILWIND CSS
 * NODEJS
-* Bun
-* Python
-* Java [aprendendo]
-* TypeScript
-* Git
-* Docker/Podman
-* Linux
+* BUN
+* PYTHON
+* JAVA [aprendendo]
+* TYPESCRIPT
+* GIT
+* DOCKER/PODMAN
+* LINUX
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL
 2013-2023- ACAP LOCAÇÃO 
