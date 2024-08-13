@@ -1,11 +1,19 @@
 
-# 🤓 Claudio Amilton
-Buscando oportunidade de Desenvolvedor de Software gosto de transformar ideias em soluções digitais inovadoras . \
-Estou no 6° período de Sistema de Informação. Sou comprometido com a
-aprendizagem contínua e estou sempre atualizado nas últimas tendências tecnológicas. \
-Atualmente em
-busca de novas oportunidades para aplicar minha paixão pela programação e contribuir para o
-crescimento de uma equipe inovadora.
+
+<div class="" mx-auto >
+       
+  <div class="">
+    <h1 >Claudio Amilton</h1>
+    <p>Buscando oportunidade de Desenvolvedor de Software gosto de transformar ideias em soluções digitais inovadoras . <br>
+    Estou no 6° período de Sistema de Informação. Sou comprometido com a
+    aprendizagem contínua e estou sempre atualizado nas últimas tendências tecnológicas. <br>
+    Atualmente em
+    busca de novas oportunidades para aplicar minha paixão pela programação e contribuir para o
+    crescimento de uma equipe inovadora.</p>
+
+  </div>
+</div>
+
 
 ## 🔗 Contato
 Brasilia -DF \
