@@ -29,7 +29,7 @@ Telefone: (61) 98366-0284 \
 
 ## 📓 Formação
 
-• Ensino Superior – Cursando Sistema da Informação – 2022-2025 – Estácio-DF
+* Ensino Superior – Cursando Sistema da Informação – 2022-2025 – Estácio-DF
 
 ## 📊 Skills
 * JAVASCRIPT / HTML/ CSS
