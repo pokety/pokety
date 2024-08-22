@@ -31,7 +31,7 @@ Telefone: (61) 98366-0284 \
 </div>  -->
 
 [_*YOUMIND*_](https://github.com/pokety/youmind) QUIZ em rede local. \
-[_*SCREENLAND*_](https://github.com/pokety/screenland) reproducao em remota administrado via CLI e front no browser. \
+[_*SCREENLAND*_](https://github.com/pokety/screenland) reproducao remota administrado via CLI e front no browser. \
 [_*DEPOSITO*_](https://github.com/pokety/deposito) gerenciamento de equipamento de eventos CLI. \
 [_*outros*_](https://github.com/pokety?tab=repositories)
 
@@ -47,6 +47,10 @@ Telefone: (61) 98366-0284 \
 * PYTHON
 * JAVA [aprendendo]
 * TYPESCRIPT
+* POSTGRES
+* SQLITE
+* MONGODB
+* UML
 * GIT
 * DOCKER/PODMAN
 * LINUX
