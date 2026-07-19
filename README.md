@@ -5,7 +5,7 @@
   <div class="">
     <h1 >Claudio Amilton</h1>
     <p>Buscando oportunidade de Desenvolvedor de Software gosto de transformar ideias em soluções digitais inovadoras . <br>
-    Estou no 6° período de Sistema de Informação. Sou comprometido com a
+    Sou comprometido com a
     aprendizagem contínua e estou sempre atualizado nas últimas tendências tecnológicas. <br>
     Atualmente em
     busca de novas oportunidades para aplicar minha paixão pela programação e contribuir para o
@@ -37,7 +37,7 @@ Telefone: (61) 98366-0284 \
 
 ## 📓 Formação
 
-* Ensino Superior – Cursando Sistema da Informação – 2022-2025 – Estácio-DF
+* Ensino Superior – Sistema da Informação – 2022-2025 – Estácio-DF
 
 ## 📊 Skills
 * JAVASCRIPT / HTML/ CSS
@@ -54,6 +54,7 @@ Telefone: (61) 98366-0284 \
 * GIT
 * DOCKER/PODMAN
 * LINUX
+* N8N
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL
 2013-2023- ACAP LOCAÇÃO 
